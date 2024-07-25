@@ -1,0 +1,14 @@
+S:\Users\Соня\Desktop\ДЗ. Промежуточное!!!\Task1\bin\Debug\net8.0\Task1.exe
+S:\Users\Соня\Desktop\ДЗ. Промежуточное!!!\Task1\bin\Debug\net8.0\Task1.deps.json
+S:\Users\Соня\Desktop\ДЗ. Промежуточное!!!\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+S:\Users\Соня\Desktop\ДЗ. Промежуточное!!!\Task1\bin\Debug\net8.0\Task1.dll
+S:\Users\Соня\Desktop\ДЗ. Промежуточное!!!\Task1\bin\Debug\net8.0\Task1.pdb
+S:\Users\Соня\Desktop\ДЗ. Промежуточное!!!\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+S:\Users\Соня\Desktop\ДЗ. Промежуточное!!!\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+S:\Users\Соня\Desktop\ДЗ. Промежуточное!!!\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+S:\Users\Соня\Desktop\ДЗ. Промежуточное!!!\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+S:\Users\Соня\Desktop\ДЗ. Промежуточное!!!\Task1\obj\Debug\net8.0\Task1.dll
+S:\Users\Соня\Desktop\ДЗ. Промежуточное!!!\Task1\obj\Debug\net8.0\refint\Task1.dll
+S:\Users\Соня\Desktop\ДЗ. Промежуточное!!!\Task1\obj\Debug\net8.0\Task1.pdb
+S:\Users\Соня\Desktop\ДЗ. Промежуточное!!!\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+S:\Users\Соня\Desktop\ДЗ. Промежуточное!!!\Task1\obj\Debug\net8.0\ref\Task1.dll
